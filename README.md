@@ -1,2 +1,2 @@
-# Web-dev--assignment--2
-assignment of web development 2
+# Web-dev--assignment--1
+This is my college web development assignment -1 
